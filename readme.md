@@ -1,6 +1,6 @@
-# Potfolio
+# Portfolio
 
-Raushan Kumar | Full Stack Web Developer
+Raushan Kumar | Full Stack Web Developer | Link(https://raushan-kumar7.github.io/potfolio)
 
 # Summary
 
